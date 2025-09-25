@@ -13,10 +13,3 @@ Perfect for portfolios, product showcases, or modern UI elements.
 - 📱 **Responsive** – Works well across different screen sizes.
 
 ---
-
-## 🚀 Demo
-
-Open the live preview in your browser:  
-**[🔗 Live Demo](https://theyseekrish.github.io/tilting-card/)**
-
----
